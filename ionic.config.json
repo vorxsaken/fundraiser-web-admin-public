@@ -1,0 +1,7 @@
+{
+  "name": "pembayaran-spp-admin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
